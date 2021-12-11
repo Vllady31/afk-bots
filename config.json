@@ -1,6 +1,6 @@
 {
 	"ip":"vllady.aternos.me",
 	"port": "17928",
-	"name": "Afkbot",
+	"name": "afkbot",
 	"auto-night-skip":"false"
 }
